@@ -27,4 +27,4 @@
 *   **Intl**: Formatação de datas e internacionalização.
 *   **Scrollable Positioned List**: Navegação precisa entre versículos.
 
-Desenvolvido com ❤️ por Fernando Rodrigues.
+Desenvolvido por Fernando Rodrigues.
