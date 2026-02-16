@@ -27,21 +27,4 @@
 *   **Intl**: Formatação de datas e internacionalização.
 *   **Scrollable Positioned List**: Navegação precisa entre versículos.
 
-## 🚀 Como executar o projeto
-
-1.  **Pré-requisitos**: Certifique-se de ter o Flutter instalado e configurado em sua máquina.
-2.  **Clone o repositório**:
-    ```bash
-    git clone https://github.com/FernandoRFer/lumen_caeli.git
-    ```
-3.  **Instale as dependências**:
-    ```bash
-    flutter pub get
-    ```
-4.  **Execute o aplicativo**:
-    ```bash
-    flutter run
-    ```
-
----
 Desenvolvido com ❤️ por Fernando Rodrigues.
