@@ -22,9 +22,5 @@
 ## 🛠️ Tecnologias utilizadas
 
 *   **Flutter**: Framework principal.
-*   **GetX**: Gerenciamento de estado, navegação e injeção de dependências.
-*   **Shared Preferences**: Persistência de dados locais (preferências e histórico).
-*   **Intl**: Formatação de datas e internacionalização.
-*   **Scrollable Positioned List**: Navegação precisa entre versículos.
 
 Desenvolvido por Fernando Rodrigues.
